@@ -11,4 +11,5 @@
 7. [Анонимные функции в JavaScript](./articles/ufocoder-anonymous-javascript-functions)
 8. [Анализ уязвимостей процесса аутентификации](./articles/bmsdave-auth-vulnerabilities)
 9. [Микроптимизации производительности и JavaScript](./articles/melikhov-optimizations-and-javascript)
-
+10. [Полиморфизм простыми словами](./articles/ufocoder-polymorphism)
+11. [Насколько JavaScript сильный?](./articles/ufocoder-javascript-coercion)
